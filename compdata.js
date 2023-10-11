@@ -639,52 +639,55 @@ export const compdata = [
             Centers as well as online (at home). <br />
             This test has the following section: <br />
             <br />
-            <b>Numerical ability</b>:<br /> Number Systems, Arithmetic,
-            Elementary Statistics, and Data Interpretation are all assessed in
-            this part. <br />
-            Verbal Ability: This section assesses English grammar, how to use it
-            correctly, and reading comprehension.
+            <b>. Quatitative Aptitude Test</b>:<br /> The first is the Quantitative Aptitude test where the
+numerical and the reasoning ability sections are tested. There are 20 questions that
+need to be attempted in 40 minutes. There are 2-star questions which have more
+weight than normal questions and are a bit tricky. There is negative marking of 1/3rd
+for the questions other than the star. Important topics include Number system,
+Equations, Ratio and Proportion, Percentages, Profit and Loss, Time and Work, Time
+speed Distance, Areas and Mensuration, Averages, Permutations and Combinations,
+Probability, Plane geometry, Seating Arrangements, Sets, Progressions, Functions,
+Series, Coding, Truth and Lie based puzzles. <br />
+Programming Language Test: This round consists of general questions from
+computer science and programming languages. It consists of 10 to 12 questions and
+the time allotted is 20 minutes. It is an MCQ round and basically consists of basic
+programming questions.
             <br />
-            Reasoning ability: Identifying words and mathematical patterns,
-            problem-solving, figurative and factual analysis, decision-making,
-            propositional reasoning, and visual-spatial reasoning are all
-            assessed in this section.
+            Coding Round: This is a technical coding round. It consists of 1 to 2 questions
+and the time allotted is 20 minutes. 
             <br />
-            Programming Section: Pseudo-code, Algorithms, Programming
-            structures, fundamental Software Development Life Cycle (SDLC) and
-            its stage-wise documents, and implementation using C, C++, and Java
-            will be tested. <br />
+            . E-mail writing:There will be given certain clues/words using which you have to
+write an e-mail addressing the scenario. You have to type the e-mail in the space
+given. The most important thing is you have to use all the phrases given without
+missing even a single one. The time allotted is 10 minutes.  <br />
+. Note:Students with more than 8.5 or 80 % respectively have to just appear for the
+verbal section i.e, the email writing. The students with rank under 1000 in CodeVita
+round 1 will be allowed to skip the written round and appear directly for interviews. <br />
           </li>
           <li>
             <br />
-            <b>Technical interview: </b>
+            <b>Technical Round: </b>
             <br />
-            Make every effort to get ready for this stage of the hiring process
-            as it is the most difficult. Your technical knowledge, biography,
-            and key projects will be the main topics of discussion throughout
-            the entire interview process. The face-to-face technical round of
-            the TCS interview consists of questions aimed at determining the
-            candidate's proficiency with object-oriented programming concepts,
-            database management systems, operating systems, networking, and a
-            programming language of your choosing. There is a good likelihood
-            that you will be required to write some code on paper.
+            The students who clear the written round are called for Technical Interview. There is
+no hard & fast rule for which questions will be asked in this round, you can expect
+questions on any topic depending on the panel. To clear this round you should be
+clear with your basics. You should be prepared with Data structures and Algorithms,
+DBMS, Operating System, Networking, OOPs concepts and a programming
+language of your choice. Students from branches other than CS should prepare for
+the other two subjects related to their branch. CS students will be expected to write
+codes in the interview. You may be asked puzzles in this round.
           </li>
           <li>
             <br />
-            <b>Managerial interview: </b>
-            <br />A group of senior members oversee the managerial round. This
-            round of interviews also takes place in person. This round may be
-            made up entirely of technical questions or may include both
-            managerial and technical inquiries. Most of the inquiries are
-            related to the position for which you are being interviewed. Any new
-            software or technology that are necessary for that position should
-            be familiar to you. In order to evaluate your thinking style, you
-            could also be asked questions based on your behaviour. It's possible
-            that you'll face pressure to test how you handle it. The
-            accomplishments listed on your CV could be contested, and you might
-            need to defend them. You can be asked questions about your prior
-            employment, goals, reasons for joining TCS, and other related
-            subjects.
+            <b>Managerial Round: </b>
+            <br />This round includes everything which was in Technical round plus it will be under
+pressure and a lot of cross-checking. Doubts will be raised on your answers to check
+if you can handle stress or not. Students may or may not be sent to this round
+depending on the feedback of the previous round. If the feedback of the previous
+round was good you may expect to directly been sent to HR round. Key for this
+round is to be calm, confident, clear on your thoughts and to not give up on
+pressure. If you don’t know the answer you must try to attempt it with whatever you
+know
           </li>
           <li>
             <br />
