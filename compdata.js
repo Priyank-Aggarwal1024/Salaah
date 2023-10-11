@@ -612,17 +612,16 @@ export const compdata = [
     alum__link: "",
     about: (
       <div>
-        Since more than 50 years ago, many of the top organisations in the world
-        have relied on Tata Consultancy Services for IT services, consulting,
-        and business solutions. Its headquarters are in Mumbai, Maharashtra,
-        while Chennai, Tamil Nadu, serves as its primary campus. As of February
-        2021, <b>TCS</b> had the greatest market capitalization among IT
-        services providers worldwide. The Tata group, the largest international
-        corporate conglomerate in India, includes TCS. Being associated with a
-        brand not only gives you the confidence that your career is on the right
-        course, but it also goes some way toward ensuring job stability. People
-        think that TCS can help them develop in their professions while yet
-        preserving a healthy work-life balance.
+        Tata Consultancy Services Limited (TCS) is an Indian multinational information
+        technology (IT) service, consulting and business solutions company Headquartered
+        in Mumbai, Maharashtra. It is a subsidiary of the Tata Group and operates in 46
+        countries. TCS is one of the largest Indian companies by market capitalization ($80
+        billion). TCS is now placed among the ‘Big 4’ most valuable IT services brands
+        worldwide. TCS alone generates 70% dividends of its parent company, Tata Sons. In
+        2015, TCS is ranked 64th overall in the Forbes World’s Most Innovative Companies
+        ranking, making it both the highest-ranked IT services company and the top Indian
+        company. It is the world’s 10th largest IT services provider by revenue. As of
+        December 2015, it is ranked 10th on the Fortune India 500 list.
       </div>
     ),
     jd: "Job Profile: Software Engineer",
@@ -630,61 +629,70 @@ export const compdata = [
       <div>
         <ul>
           <li>
-            <h2>Round 1 (TCS NQT): </h2>
+            <h2>Round 1(Written Round): </h2>
             <br />
-            The TCS NQT (National Qualifier Test), the initial round of the
-            hiring process, is regarded as one of the trickiest parts of the
-            process. It is an aptitude test that assesses a candidate's
-            competencies. TCS NQT Exams are available at TCS iON Authorised Exam
-            Centers as well as online (at home). <br />
-            This test has the following section: <br />
+            The Written round consists of four sections and the total time allotted is 90 minutes.
+            The four sections include:<br />
             <br />
-            <b>Numerical ability</b>:<br /> Number Systems, Arithmetic,
-            Elementary Statistics, and Data Interpretation are all assessed in
-            this part. <br />
+            <b>Quatitative Aptitude Test:</b>:<br /> The first is the Quantitative Aptitude test where the
+            numerical and the reasoning ability sections are tested. There are 20 questions that
+            need to be attempted in 40 minutes. There are 2-star questions which have more
+            weight than normal questions and are a bit tricky. There is negative marking of 1/3rd
+            for the questions other than the star. Important topics include Number system,
+            Equations, Ratio and Proportion, Percentages, Profit and Loss, Time and Work, Time
+            speed Distance, Areas and Mensuration, Averages, Permutations and Combinations,
+            Probability, Plane geometry, Seating Arrangements, Sets, Progressions, Functions,
+            Series, Coding, Truth and Lie based puzzles. <br />
             Verbal Ability: This section assesses English grammar, how to use it
             correctly, and reading comprehension.
             <br />
-            Reasoning ability: Identifying words and mathematical patterns,
-            problem-solving, figurative and factual analysis, decision-making,
-            propositional reasoning, and visual-spatial reasoning are all
-            assessed in this section.
             <br />
-            Programming Section: Pseudo-code, Algorithms, Programming
-            structures, fundamental Software Development Life Cycle (SDLC) and
-            its stage-wise documents, and implementation using C, C++, and Java
-            will be tested. <br />
+            <b>Programming Language Test:</b>:<br /> This round consists of general questions from
+            computer science and programming languages. It consists of 10 to 12 questions and
+            the time allotted is 20 minutes. It is an MCQ round and basically consists of basic
+            programming questions.
+            <br />
+            <br />
+            <b> Coding Round: </b>:<br />This is a technical coding round. It consists of 1 to 2 questions
+            and the time allotted is 20 minutes.
+            <br />
+            <br />
+            <b>E-mail writing :</b>:<br /> There will be given certain clues/words using which you have to
+            write an e-mail addressing the scenario. You have to type the e-mail in the space
+            given. The most important thing is you have to use all the phrases given without
+            missing even a single one. The time allotted is 10 minutes.
+            <br />
+            <br />
+            <b>Note:</b>:<br /> Students with more than 8.5 or 80 % respectively have to just appear for the
+            verbal section i.e, the email writing. The students with rank under 1000 in CodeVita
+            round 1 will be allowed to skip the written round and appear directly for interviews.
+            <br />
+            
           </li>
           <li>
             <br />
-            <b>Technical interview: </b>
+            <b>Round 2(Technical Round):</b>
             <br />
-            Make every effort to get ready for this stage of the hiring process
-            as it is the most difficult. Your technical knowledge, biography,
-            and key projects will be the main topics of discussion throughout
-            the entire interview process. The face-to-face technical round of
-            the TCS interview consists of questions aimed at determining the
-            candidate's proficiency with object-oriented programming concepts,
-            database management systems, operating systems, networking, and a
-            programming language of your choosing. There is a good likelihood
-            that you will be required to write some code on paper.
+            The students who clear the written round are called for Technical Interview. There is
+            no hard & fast rule for which questions will be asked in this round, you can expect
+            questions on any topic depending on the panel. To clear this round you should be
+            clear with your basics. You should be prepared with Data structures and Algorithms,
+            DBMS, Operating System, Networking, OOPs concepts and a programming
+            language of your choice. Students from branches other than CS should prepare for
+            the other two subjects related to their branch. CS students will be expected to write
+            codes in the interview. You may be asked puzzles in this round.
           </li>
           <li>
             <br />
             <b>Managerial interview: </b>
-            <br />A group of senior members oversee the managerial round. This
-            round of interviews also takes place in person. This round may be
-            made up entirely of technical questions or may include both
-            managerial and technical inquiries. Most of the inquiries are
-            related to the position for which you are being interviewed. Any new
-            software or technology that are necessary for that position should
-            be familiar to you. In order to evaluate your thinking style, you
-            could also be asked questions based on your behaviour. It's possible
-            that you'll face pressure to test how you handle it. The
-            accomplishments listed on your CV could be contested, and you might
-            need to defend them. You can be asked questions about your prior
-            employment, goals, reasons for joining TCS, and other related
-            subjects.
+            <br />This round includes everything which was in Technical round plus it will be under
+            pressure and a lot of cross-checking. Doubts will be raised on your answers to check
+            if you can handle stress or not. Students may or may not be sent to this round
+            depending on the feedback of the previous round. If the feedback of the previous
+            round was good you may expect to directly been sent to HR round. Key for this
+            round is to be calm, confident, clear on your thoughts and to not give up on
+            pressure. If you don’t know the answer you must try to attempt it with whatever you
+            know.
           </li>
           <li>
             <br />
@@ -745,17 +753,33 @@ export const compdata = [
     alum__link: "",
     about: (
       <div>
-        Cognizant has been named one of Fortune's Most Admired Companies for the
-        eighth year in a row. Cognizant is also ranked 18th among the Forbes
-        FastTech 25 businesses. Cognizant is a member of the NASDAQ-100, the
-        S&amp;P 500, the Forbes Global 2000, and the Fortune 500, and is
-        considered among the best performing and fastest growing firms in the
-        world, with over 50 delivery centres worldwide and about 244,300 workers
-        as of June 30, 2016. Everything Cognizant does is motivated by the
-        desire to serve customers, solve issues, and improve human experiences.
-        Discover the finest digital options for your organisation if you're as
-        excited about the potential as Cognizant is.
+       Cognizant is a multinational technology giant based in the United States that deals in
+      business consulting, information technology, and outsourcing. Cognizant technology
+      solutions help businesses in modernizing technology and improving customer
+      experiences. Cognizant specializes in IT, consulting, ITO, information security, and
+      BPO services. In 2022, Cognizant expected revenue of over USD 20 billion and hired
+      over 50,000 freshers from colleges in India <br/>
+      The cognizant recruitment process needs students to go through either an aptitude test
+      or skill-based assessments along with technical and HR interviews. The hiring
+      channels at Cognizant are spread across four different routes which are as follows:
+      <ul>
+        <li>Gen C: Individuals with minimal programming expertise. They should have the
+      ability to comprehend complex problems and deliver smart solutions. For this
+      stage, knowledge of programming is recommended but not mandatory.</li>
+        <li>Gen C: Individuals with minimal programming expertise. They should have the
+      ability to comprehend complex problems and deliver smart solutions. For this
+      stage, knowledge of programming is recommended but not mandatory.</li>
+        <li>GenC Pro: Individuals with expertise in specific technologies, such as PEGA,
+      Salesforce, SAP, Cybersecurity, ServiceNow, etc. are eligible to be hired
+      through this channel. The salary package of GenC Pro candidates includes a
+      skill premium over and above the GenC package.</li>
+        <li>GenC Next: This hiring mode is suitable for individuals who have advanced
+      programming abilities, coding skills, and full-stack abilities. GenC Next
+      candidates have a differential salary package after a mandatory three-month
+      internship with a stipend</li>
+      </ul>
       </div>
+
     ),
     jd: "Entry Level Profiles",
     process: (
@@ -763,48 +787,75 @@ export const compdata = [
         <ul>
           <li>
             <h2>Eligibility Criteria</h2>
+            <h3>The eligibility criteria for participating in the Cognizant recruitment process are as
+            follows:</h3>
             <br />
-            Minimum of 60 percent in class X, XII and B.Tech <br />
-            No backlogs <br />
-            Education gap of upto 1 year
+            • More than 60% marks in 10th and 12th.<br/>
+            • Minimum percentage criteria - 60% marks in graduation.<br/>
+            • Maximum gap should be 1 year.<br/>
+            • Qualification must be BE, B Tech, ME, M Tech, or MCA.<br/>
+            • Candidate must not have any pending backlogs during the selection process.<br/>
           </li>
           <br />
           <li>
             <b>
-              <h2>Online Assessment </h2>
+              <h2>Written Test Pattern </h2>
             </b>
             <br />
-            This round consists of a 240-minutes written exam made up of 61
-            questions. There are 25 , 25 questions on Quantative Aptitude and
-            Logical Reasoning and 10 questions over code debugging.
+            <h2>Stage 1: Written Round</h2>
+            <b>GenC</b><br/>
+            Aptitude Test:<br/>
+            Cognizant recruitment process usually have aptitude questions
+            related to:<br/>
+            • Analytical ability (Data
+            sufficiency, Venn diagrams, blood relations, etc.)<br/>
+            • Abstract reasoning
+            (Cubes& dice, paper folding & cuts, mirror images, etc.)<br/>
+            • Critical thinking (Codingdecoding, syllogism, inputoutput, etc.)<br/>
+            • Numerical ability (Ages, time & work, probability,
+            equations, profit-loss, arithmetic operators, etc.)<br/>
+            • Verbal ability (Parajumbles, reading comprehension,
+            synonyms, antonyms, etc.)<br/>
+            • Data Analysis (Data interpretation) 
+            <br/>
+            <br/>
+            <br/>
+            <b>GenC Elevate</b><br/>
+            Section 1: Conceptual and code analysis
+             <br/>
+              Section 2: Coding
+              <br/>
+              Control Structure, OOPS, Classes (base class, child class, etc.), Objects(C/C++), 
+              Struct, Trees, DSA-Arrays, Exception Handling(JAVA/C++), Searching/Sorting, 
+              Pointers, File Handling(JAVA), Utility API(JAVA, C++), Basic Query Language.
+            <br/>
+            <br/>
+
           </li>
           <br />
           <li>
             <b>
-              <h2>Interview Round 1</h2>
+              <h2>Stage 2: Interview Process</h2>
+              <h4>The entire interview process has two rounds - technical interview and HR interview</h4>
             </b>
-            <br />
-            Candidates who qualify the written test are called for GenC
-            interview. This includes questions based on programming, data
-            structures, and algorithms. GenC is basically a technical interview
-            round, followed by some general questions. The candidate is given
-            some easy and a few difficult questions in this round.
+            <br /><h3>Technical Interview Round</h3><br/>
+
+            <b>GenC </b>
+            Programming languages such as C, C++, DSA, and basic
+             questions about projects done during graduation<br/><br/>
+            <b>GenC Elevate </b>
+            Programming languages such as C, C++, DSA, DBMS, SDLC, Projects, 
+            Certification courses(if any) NOTE: Certification courses such 
+            as AI, ML, Cybersecurity, etc. add value to your CV. However, 
+            you must only add these to your CV if you are thorough with 
+            these topics. <br/><br/>
+            <br /><h3>HR Round</h3><br/>
+            Cognizant interview questions include basic questions about your
+             personality, education, interests, family background, internships, 
+             current technology trends, etc.
+            <br/><br/>
           </li>
           <br />
-          <li>
-            <b>
-              <h2>Interview Round 2</h2>
-            </b>
-            <br />
-            Only those who qualify GenC interview are eligible for this round.
-            However, even if the candidate is not able to clear GenC Next
-            interview but qualifies GenC interview, they are hired for the
-            relevant role. Usually, candidates with some coding experience only
-            are able to ace GenC Next interview round .This interview mainly
-            assesses the candidate's knowledge of programming concepts and
-            algorithms, as well as their personality traits, communication
-            skills, and problem-solving behaviours.
-          </li>
         </ul>
       </div>
     ),
@@ -867,53 +918,37 @@ export const compdata = [
         <br />
         <h1>Academic Criteria: </h1>
         <br />
-        <li>• 75 percent or above in B.Tech, Class X and XII.</li>
+        <li>• 65 percent or above in B.Tech, Class X and XII.</li>
         <li>• No backlogs at the time of interview.</li>
         <br />
         <br />
-        <h2>Online Round :</h2>
+        <h2>ABOUT THE PROCESS:</h2>
         <br />
-        <i>Technical Test:</i> <br /> In this round there will be 45 mcq
-        questions  which have to be answered in the time limit of 45 minutes.
-        Ignore the syntax error, like missing semi-colon or bracket, and work on
-        the logic. As this is an elimination round, so you will proceed only if
-        you clear this round. <br />
+        <i>Aptitude and Essay Round :</i> <br />Aptitude round consists of 3 sections namely 
+        Quantitative reasoning, logical reasoning and essay writing section. This round is 
+        generally conducted on Cocubes.<br />
         <br />
-        <i>English Communication Test:</i> <br /> This will be a MCQ section
-        with four options for every question. Tests your grammatical and
-        vocabulary skills.
-        <br />
-        <br />
-        <i>Game based Aptitude Test:</i> <br /> In this section there will be
-        games and you have to pass them. There are a total of 24 games, out of
-        which the system will select 4 games for you. You have to try to reach
-        the highest level you could, withing the given time. There will be a
-        time limit of 25- 30 mins per game.
-        <br />
-        <br />
-        <i>Behaviorial Competency Test:</i> <br /> This is just an another name
-        for Psychometric Test, in which there will be different situation based
-        questions , and you have to answer that whether you agree or disagree
-        with that situation.
-        <br />
-        <br />
-        <i>Spoken English:</i> <br /> The Capgemini Exceller Spoken English
-        round is the latest round that has been added to Capgemini Exceller
-        Recruitment Process. This is a new round that Capgemini Exceller has
-        introduced.
-        <br />
-        <br />
-        <i>Coding:</i> <br /> Capgemini Exceller coding section is only for
-        those students who have qualified till Spoken English Round and if you
-        will be able to solve 1 questions you will get package of 5.75 LPA and
-        if you will solve both question then you will get 7.50 LPA package.
+        <i>Technical Aptitude Round:</i> <br />The students who clear the quantity round 
+        are called for Technical Aptitude Round. To clear this round you should be clear
+         with your basics. You should be prepared with Data structures and Algorithms, 
+         DBMS, Operating System.
         <br />
         <br />
         <h2>Technical Rounds:</h2>
         <br />
-        In this round the students can expect the question about their Final
-        Year Project, basic Coding Questions. Knowledge of Coding on C
-        Programming & DSA is must for the students for clearing the round.
+        To clear this round you should be clear with your basics. You should be prepared
+        with Data structures and Algorithms, DBMS, Operating System. Students will be
+        expected to write codes in the interview. 
+        <br/>They also ask questions from resume. They frequently ask questions about your
+        previous projects. You may be asked puzzles in this round.
+        <br />
+        <br />
+        <h2>Tips:</h2>
+        <br />
+        <li>• Try to be as interactive with interviewers as possible.</li>
+        <li>• Before you start writing code, tell them what are all the possible solutions 
+          and which one you are choosing and why.</li>
+        <li>• Don’t mention that you don’t know.</li>
         <br />
         <br />
         <h2>HR Round :</h2>
@@ -921,10 +956,8 @@ export const compdata = [
         You can expected general HR questions like :
         <li>• Tell me about Yourself</li>
         <li>• Why Capgemini?</li>
-        <li>• What will you do if you get offer from Google/Facebook, etc ?</li>
-        <li>• What kind of culture do you want to work in?</li>
-        <li>• What are your strengths and weaknesses ?</li>
-        <li>• Questions from resume</li>
+        <li>• How you see yourself after five years from now?</li>
+        <li>• What are your strengths and weaknesses</li>
         <br />
       </div>
     ),
